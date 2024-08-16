@@ -1,0 +1,11 @@
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\obj\Debug\Paint_21110421.csproj.AssemblyReference.cache
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\obj\Debug\Paint_21110421.csproj.SuggestedBindingRedirects.cache
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\obj\Debug\Paint_21110421.Form1.resources
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\obj\Debug\Paint_21110421.csproj.GenerateResource.cache
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\bin\Debug\Paint_21110421.exe.config
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\bin\Debug\Paint_21110421.exe
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\bin\Debug\Paint_21110421.pdb
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\obj\Debug\Paint_21110421.Properties.Resources.resources
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\obj\Debug\Paint_21110421.csproj.CoreCompileInputs.cache
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\obj\Debug\Paint_21110421.exe
+D:\LapTrinhWindow\Paint_21110421\Paint_21110421\Paint_21110421\obj\Debug\Paint_21110421.pdb

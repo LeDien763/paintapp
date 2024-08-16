@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Paint_21110421.Model.DArc" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAACQAAAAAAgBAAAAAAAAAAAAAAACACAAACAAABA=</HashCode>
+      <FileName>Model\DArc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_21110421.Model.DataManager" Collapsed="true">
+    <Position X="7" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCABCESACEEAAEgAAgIAAAAQAABAAAVAoAAAAACBAQg=</HashCode>
+      <FileName>Model\DataManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_21110421.Model.DCircle" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAABAAAAAAAAAAAAAAAAACAAACAAABA=</HashCode>
+      <FileName>Model\DCircle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_21110421.Model.DEllipse" Collapsed="true">
+    <Position X="2" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Model\DEllipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_21110421.DLine" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAgBAAAAAAAAAAAAAAAAACAAACAAABA=</HashCode>
+      <FileName>Model\DLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_21110421.Model.DRectangle" Collapsed="true">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAABAAAAAAAAAAAAAAAAACAAACAAABA=</HashCode>
+      <FileName>Model\DRectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_21110421.Model.Group" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAABABCAAAAAQAAAAAAAACACAAACAABDg=</HashCode>
+      <FileName>Model\Group.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Paint_21110421.Model.Shape" Collapsed="true">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAQAAQAABAACgBACAAAAAQAAIEAACCgCAAACAAARA=</HashCode>
+      <FileName>Model\Shape.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Paint_21110421.Present.Drawing" Collapsed="true">
+    <Position X="11.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAASACAAAACwBAAAg0IAAAAICEAAACAAAgAAAA=</HashCode>
+      <FileName>Present\Drawing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_21110421.Present.Setup" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAIAAAAAAAAABAAAAEAAAAIAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Present\Setup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_21110421.Present.Update" Collapsed="true">
+    <Position X="11.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAIAAABAAAAAAAAAAAAAAIEAAAAAAQAAAAAE=</HashCode>
+      <FileName>Present\Update.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_21110421.FindRegion" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Uses\FindRegion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paint_21110421.Program" Collapsed="true">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Paint_21110421.View.ViewPaint" Collapsed="true">
+    <Position X="13.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAACAAAABAAAAAAAAAAjAAAAJAhA=</HashCode>
+      <FileName>View\ViewPaint.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Paint_21110421.CurrentShapeStatus" Collapsed="true">
+    <Position X="13.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAggAIAAAAAgAAADACA=</HashCode>
+      <FileName>Uses\CurrentShapeStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
